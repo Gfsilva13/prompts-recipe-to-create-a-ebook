@@ -42,15 +42,13 @@ ray.so：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
-
+<p>
     <p>Genivaldo Ferreira<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Gfsilva13">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-Genivaldo Ferreira">LinkedIn</a>
-&nbsp;|&nbsp;
-  
+Genivaldo Ferreira">LinkedIn</a> 
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -58,4 +56,4 @@ Genivaldo Ferreira">LinkedIn</a>
 
 ---
 
-⌨️ por [Genivaldo Ferreira](https://github.com/Gfsilva13/)
+⌨️ por [Genivaldo Ferreira](https://github.com/Gfsilva13)

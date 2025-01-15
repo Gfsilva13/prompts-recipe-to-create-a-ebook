@@ -43,7 +43,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-    <p>&nbsp&nbsp&nbspGenivaldo Ferreira<br>
+    <p>Genivaldo Ferreira<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Gfsilva13">
     GitHub</a>&nbsp;|&nbsp;

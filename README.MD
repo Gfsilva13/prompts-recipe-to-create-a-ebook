@@ -65,4 +65,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ por [Genivaldo Ferreira](https://github.com/Gfsilva13)
+⌨️ por [Genivaldo Ferreira](https://github.com/Gfsilva13/)
